@@ -27,12 +27,12 @@ Here are some ideas to get you started:
   <tr>
     <td>BeeCrowd</td>
     <td><a href="#">Newaz</a></td>
-    <td>100</td>
+    <td style="float: right,">100</td>
   </tr>
   <tr>
     <td>HackerRank</td>
     <td><a href="#">Newaz</a></td>
-    <td>10</td>
+    <td style="float: right,">10</td>
   </tr>
   <tr>
     <td>Total</td>
