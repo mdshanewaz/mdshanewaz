@@ -51,7 +51,6 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<ht>
 # Contact Me 
 <br>
 
