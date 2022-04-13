@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 ### Peace be upon you! Hello, Welcome to my profile. Here are some my efforts. Hope you will find it helpful. Thank you!
 
 # My Contribution Status
-<hr>
+<br>
+
 <table>
   <tr>
     <th>Platform</th>
@@ -50,8 +51,9 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+
 # Contact Me 
-<hr>
+<br>
 ### Email : sepnewaz9207@gmail.com
 ### Linkedin : <a href="https://www.linkedin.com/in/shah-newaz-8a3ba61bb/"> Sha Newaz</a>
 ### Website : <a href="https://devpnewaz.epizy.com/">https://devpnewaz.epizy.com/</a>
