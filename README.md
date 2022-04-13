@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 
 # Contact Me 
 <br>
-
 ### Email : sepnewaz9207@gmail.com
 ### Linkedin : <a href="https://www.linkedin.com/in/shah-newaz-8a3ba61bb/"> Sha Newaz</a>
 ### Website : <a href="https://devpnewaz.epizy.com/">https://devpnewaz.epizy.com/</a>
