@@ -26,12 +26,17 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td>BeeCrowd</td>
-    <td>Newaz</td>
+    <td><a href="#">Newaz</a></td>
     <td>100</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>HackerRank</td>
+    <td><a href="#">Newaz</a></td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td></td>
+    <td>110</td>
   </tr>
 </table>
