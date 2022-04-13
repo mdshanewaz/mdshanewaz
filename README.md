@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Platform</th>
+    <th>Username</th>
+    <th>Solved</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>BeeCrowd</td>
+    <td>Newaz</td>
+    <td>100</td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
