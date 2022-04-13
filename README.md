@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 # My Contribution Status
 <hr>
-
 <table>
   <tr>
     <th>Platform</th>
@@ -51,10 +50,8 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-
 # Contact Me 
 <hr>
-
 ### Email : sepnewaz9207@gmail.com
 ### Linkedin : <a href="https://www.linkedin.com/in/shah-newaz-8a3ba61bb/"> Sha Newaz</a>
 ### Website : <a href="https://devpnewaz.epizy.com/">https://devpnewaz.epizy.com/</a>
