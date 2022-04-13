@@ -32,11 +32,21 @@ Here are some ideas to get you started:
   <tr>
     <td>HackerRank</td>
     <td><a href="#">Newaz</a></td>
-    <td style="float:right;">10</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>UVA</td>
+    <td><a href="#">Newaz</a></td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>CodeForce</td>
+    <td><a href="#">Newaz</a></td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Total</td>
     <td></td>
-    <td>110</td>
+    <td>130</td>
   </tr>
 </table>
