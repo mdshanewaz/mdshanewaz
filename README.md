@@ -52,4 +52,7 @@ Here are some ideas to get you started:
 </table>
 
 
-Contact Me: <a href="https://devpnewaz.epizy.com/">https://devpnewaz.epizy.com/</a>
+# Contact Me 
+<br>
+### Website : <a href="https://devpnewaz.epizy.com/">https://devpnewaz.epizy.com/</a>
+### Email : <a href="https://devpnewaz.epizy.com/">https://devpnewaz.epizy.com/</a>
