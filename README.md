@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td>BeeCrowd</td>
-    <td><a href="#">Newaz</a></td>
+    <td><a href="https://www.beecrowd.com.br/judge/en/profile/599758">Newaz</a></td>
     <td style="float: right,">100</td>
   </tr>
   <tr>
