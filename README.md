@@ -32,11 +32,11 @@ Here are some ideas to get you started:
   <tr>
     <td>HackerRank</td>
     <td><a href="https://www.hackerrank.com/sawonnstu">Newaz</a></td>
-    <td>10</td>
+    <td style="float: right,">10</td>
   </tr>
   <tr>
     <td>UVA</td>
-    <td><a href="#">Newaz</a></td>
+    <td><a href="https://vjudge.net/user/sawon13">Newaz</a></td>
     <td>10</td>
   </tr>
   <tr>
