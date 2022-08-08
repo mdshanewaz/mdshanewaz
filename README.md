@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     <td style="float: right,">10</td>
   </tr>
   <tr>
-    <td>Vjude</td>
+    <td>VJude</td>
     <td><a href="https://vjudge.net/user/sawon13">Newaz</a></td>
     <td>10</td>
   </tr>
