@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td>HackerRank</td>
-    <td><a href="#">Newaz</a></td>
+    <td><a href="https://www.hackerrank.com/sawonnstu">Newaz</a></td>
     <td>10</td>
   </tr>
   <tr>
