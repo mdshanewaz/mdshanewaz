@@ -40,11 +40,6 @@ Here are some ideas to get you started:
     <td>10</td>
   </tr>
   <tr>
-    <td>CodeForce</td>
-    <td><a href="#">Newaz</a></td>
-    <td>10</td>
-  </tr>
-  <tr>
     <td>Total</td>
     <td></td>
     <td>130</td>
