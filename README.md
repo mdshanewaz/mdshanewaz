@@ -35,6 +35,11 @@ Here are some ideas to get you started:
     <td style="float: right,">10</td>
   </tr>
   <tr>
+    <td>LeetCode</td>
+    <td><a href="https://leetcode.com/Sawon13/">Newaz</a></td>
+    <td style="float: right,">10</td>
+  </tr>
+  <tr>
     <td>VJude</td>
     <td><a href="https://vjudge.net/user/sawon13">Newaz</a></td>
     <td>10</td>
