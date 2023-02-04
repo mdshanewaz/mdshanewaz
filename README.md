@@ -55,6 +55,6 @@ Here are some ideas to get you started:
 <br>
 
 ### Email : mdshanewazdevp@gmail.com
-### Linkedin : <a href="https://www.linkedin.com/in/shah-newaz-8a3ba61bb/"> Sha Newaz</a>
+### Linkedin : <a href="https://www.linkedin.com/in/sha-newaz-8a3ba61bb/"> Sha Newaz</a>
 ### Website : <a href="https://mdshanewaz.github.io/DevSawonPortfolio/">DevSawonPortfolio</a>
 
